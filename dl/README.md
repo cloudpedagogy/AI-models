@@ -4,7 +4,7 @@ The models can be grouped based on their characteristics and applications. Here 
 
 
 **Classical Neural Networks**
-   - [Perceptron]([url](https://github.com/cloudpedagogy/models/blob/main/dl/Perceptron.ipynb))
+   - [Perceptron](https://github.com/cloudpedagogy/models/blob/main/dl/Perceptron.ipynb)
    - [Multi-Layer Perceptron (MLP)](https://github.com/cloudpedagogy/models/blob/main/dl/Multi_Layer_Perceptron_(MLP).ipynb)
    - [Radial Basis Function Network (RBFN)](https://github.com/cloudpedagogy/models/blob/main/dl/Radial_Basis_Function_Network_(RBFN).ipynb)
 
