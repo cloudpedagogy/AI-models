@@ -22,7 +22,7 @@ Unleash the true potential of AI with our GitHub repository. Whether you're a st
 
 Discover. Learn. Implement. Evolve.
 
-Check out our list of [Machine Learning Models](https://github.com/cloudpedagogy/models/tree/main/ml) 
+Check out our list of [Machine Learning Models](https://github.com/cloudpedagogy/models/blob/main/ml/README.md) 
 Check out our list of [Deep Learning Models](https://github.com/cloudpedagogy/models/blob/main/dl/README.md) 
 
 _Your journey towards mastering Machine Learning and Deep Learning starts here!_
