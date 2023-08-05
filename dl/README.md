@@ -1,5 +1,7 @@
 # Deep Learning Models
 
+A typical Deep Learning Model [example](https://github.com/cloudpedagogy/models/blob/main/dl/Deep_Learning_Model.ipynb)
+
 The models can be grouped based on their characteristics and applications. Here are the groups:
 
 
