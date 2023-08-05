@@ -1,6 +1,6 @@
 # Machine Learning Models
 
-A typical Machine Learning Model [example](https://github.com/cloudpedagogy/models/blob/main/ml/machine_learning_model.ipynb)
+A typical Machine Learning Model [example](https://github.com/cloudpedagogy/models/blob/main/ml/Machine_Learning_Model.ipynb)
 
 The models can be grouped based on their characteristics and applications. Here are the groups:
 
