@@ -28,7 +28,6 @@ The models can be grouped based on their characteristics and applications. Here 
 - [Gaussian Mixture Models (GMM)](https://github.com/cloudpedagogy/models/blob/main/ml/Gaussian_Mixture_Models_(GMM).ipynb)
 
 ## Other Techniques:
-- [Decision Boundary Estimation (DBE)](https://github.com/cloudpedagogy/models/blob/main/ml/Decision_Boundary_Estimation_(DBE).ipynb)
 - [Elastic Net](https://github.com/cloudpedagogy/models/blob/main/ml/Elastic_Net.ipynb)
 
 Note: Some models could fit into multiple categories depending on how they are used. For instance, logistic regression can be considered both a supervised learning model for classification and a regularization technique when used with L1 or L2 regularization. Similarly, Ridge and Lasso Regression can be seen as both supervised learning models and regularization techniques.
