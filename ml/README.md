@@ -1,8 +1,10 @@
 # Machine Learning Models
 
+A typical Machine Learning Model [example](https://github.com/cloudpedagogy/models/blob/main/ml/machine_learning_model.ipynb)
+
 The models can be grouped based on their characteristics and applications. Here are the groups:
 
-**Supervised Learning Models:**
+## Supervised Learning Models:
 - [Linear Regression](https://github.com/cloudpedagogy/models/blob/main/ml/Linear_Regression.ipynb)
 - [Logistic Regression](https://github.com/cloudpedagogy/models/blob/main/ml/Logistic_Regression.ipynb)
 - [Decision Trees](https://github.com/cloudpedagogy/models/blob/main/ml/Decision_Trees.ipynb)
@@ -19,13 +21,13 @@ The models can be grouped based on their characteristics and applications. Here 
 - [Ridge Classification (Logistic Regression with L2 Regularization)](https://github.com/cloudpedagogy/models/blob/main/ml/Ridge_Classification_(Logistic_Regression_with_L2_Regularization).ipynb)
 - [Lasso Classification (Logistic Regression with L1 Regularization)](https://github.com/cloudpedagogy/models/blob/main/ml/Lasso_Classification_(Logistic_Regression_with_L1_Regularization).ipynb)
 
-**Unsupervised Learning Models:**
+## Unsupervised Learning Models:
 - [Principal Component Analysis (PCA)](https://github.com/cloudpedagogy/models/blob/main/ml/Principal_Component_Analysis_(PCA).ipynb)
 - [k-Means Clustering](https://github.com/cloudpedagogy/models/blob/main/ml/k_Means_Clustering.ipynb)
 - [Hierarchical Clustering](https://github.com/cloudpedagogy/models/blob/main/ml/Hierarchical_Clustering.ipynb)
 - [Gaussian Mixture Models (GMM)](https://github.com/cloudpedagogy/models/blob/main/ml/Gaussian_Mixture_Models_(GMM).ipynb)
 
-**Other Techniques:**
+## Other Techniques:
 - [Decision Boundary Estimation (DBE)](https://github.com/cloudpedagogy/models/blob/main/ml/Decision_Boundary_Estimation_(DBE).ipynb)
 - [Elastic Net](https://github.com/cloudpedagogy/models/blob/main/ml/Elastic_Net.ipynb)
 
