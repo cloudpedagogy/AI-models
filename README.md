@@ -27,6 +27,12 @@ Discover. Learn. Implement. Evolve.
 Check out our list of [Machine Learning Models](https://github.com/cloudpedagogy/models/blob/main/ml/README.md) 
 Check out our list of [Deep Learning Models](https://github.com/cloudpedagogy/models/blob/main/dl/README.md) 
 
+Books:
+
+[Evaluating AI Models](https://github.com/cloudpedagogy/AI-models/blob/main/books/Evaluating_AI_models.ipynb)
+[Ensemble Techniques for Machine Learning and Deep Learning
+](https://github.com/cloudpedagogy/AI-models/blob/main/books/Ensemble_Techniques_for_Machine_Learning_and_Deep_Learning.ipynb)
+
 _Your journey towards mastering Machine Learning and Deep Learning starts here!_
 
 # Repository Rationale
